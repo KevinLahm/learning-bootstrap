@@ -1,0 +1,15 @@
+{
+  "name": "jumia",
+  "version": "1.0.0",
+  "description": "Test website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Eric Murimi",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^4.1.0",
+    "jquery": "^3.3.1"
+  }
+}
